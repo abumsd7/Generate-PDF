@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Generate PDF</string>
+    <string name="msg_string">Share something from the app to work!</string>
+    <string name="success_msg">File Created. Check IndexedPDFs folder!</string>
+</resources>
